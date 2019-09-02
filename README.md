@@ -2,9 +2,9 @@
 
 __#CDPReqModel - is an alternative to traditional User Story based Software Requirement Model used by teams across the world.__
 
-___A Detailed Description of this Model is explained in this video___ https://youtu.be/jtBZ5Wbc7n4 
+___A Detailed Description of this Model with suitable examples is explained in this video___ https://youtu.be/jtBZ5Wbc7n4 
 
-___A Detailed Blog post describing this model is present @___ https://medium.com/@DakshHub/describing-software-requirements-using-visualization-models-called-cdp-and-not-by-text-based-93b4081e1117?source=friends_link&sk=3afd199bc21180365e1d204e7261ecbc
+___A Detailed Blog post describing this model with examples is present @___ https://medium.com/@DakshHub/describing-software-requirements-using-visualization-models-called-cdp-and-not-by-text-based-93b4081e1117?source=friends_link&sk=3afd199bc21180365e1d204e7261ecbc
 
 
 There is a general misconception in SCRUM teams that User Stories are part of SCRUM... This is NOT true.
